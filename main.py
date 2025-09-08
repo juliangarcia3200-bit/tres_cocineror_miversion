@@ -155,5 +155,6 @@ cogs_calculado, margen_bruto_calculado = calcular_cogs_y_margen_bruto(
 )
 print(f"El Costo de los Bienes Vendidos (COGS) es: {cogs_calculado}")
 print(f"El Margen Bruto es: {margen_bruto_calculado}")  
+print("hola")
 
 
